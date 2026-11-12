@@ -1,0 +1,17 @@
+{
+  "blender": "4.5.13 LTS",
+  "objects": 20,
+  "screen_objects": 1,
+  "source_image_size": [
+    1206,
+    2622
+  ],
+  "packed_image": true,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "render_output": "/Users/USER/Documents/Codex/2026-09-11/new-chat/outputs/pocket-rove-studio/pocket-rove-studio-1080x1920.png",
+  "status": "LOCAL_RENDER_AND_SCENE_PASS",
+  "visual_acceptance": "PENDING_USER"
+}

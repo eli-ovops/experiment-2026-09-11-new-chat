@@ -1,0 +1,24 @@
+{
+  "scene_readback": "PASS",
+  "resolution": [
+    2160,
+    3840
+  ],
+  "render_engine": "CYCLES",
+  "device_setting": "GPU",
+  "samples_limit": 256,
+  "camera_lens_mm": 95.0,
+  "screenshot_packed": true,
+  "screenshot_unchanged_sha256": "74bd171e15abbc36618a3b1c9823d73511f7d716b4399e08530b95907a6e5869",
+  "screen_title_gap_pixels": 146.4,
+  "phone_lowest_z": 0.802000105381012,
+  "podium_top_z": 0.8,
+  "user_visual_acceptance": "PENDING",
+  "render_completed": true,
+  "png_dimensions_verified": [
+    2160,
+    3840
+  ],
+  "render_elapsed": "02:14.40",
+  "visual_review": "Reviewed final render; no text/product overlap; screen content matches source; user approval pending"
+}

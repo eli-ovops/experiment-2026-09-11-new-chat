@@ -1,0 +1,7 @@
+{
+  "scene_readback": "PASS",
+  "material_chain": "Packed original PNG -> Emission (1.0) -> Surface",
+  "packed_image_sha256": "21788cba5245d011fc3eb464c920410f725c01a94e1c534032052b45f513c861",
+  "source_color_pipeline": "Standard / exposure 0 / gamma 1",
+  "screen_material_no_color_adjustment": true
+}
